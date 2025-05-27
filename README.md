@@ -25,7 +25,7 @@ The provided code demonstrates how these algorithms work and compares their resu
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/process-scheduling-algorithms.git
+    git clone https://github.com/aashita-n/process-scheduling-algorithms.git
     ```
 
 2. Navigate to the project directory:
